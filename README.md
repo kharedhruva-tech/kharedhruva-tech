@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **kharedhruva@gmail.com** For Collaboration/Project or Anyt
 - 🤔 **I’m looking for help with:** Jarvis*
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Dhruva
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <!-- Snake Game Repo View -->
 
