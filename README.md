@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Network security & Penetration tester || DevOps Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **kharedhruva@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Network security **
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Jarvis*
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cheeku_editsssss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/  linkedin.com/in/dhruva-khare-6ba6b7391) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dhruva khare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharedhruva@gmail.com) 
