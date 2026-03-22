@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Dhruva khare
 **A passionate Network security & Penetration tester || DevOps Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **kharedhruva@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -11,6 +11,16 @@ Email Me 👉 ✉️ **kharedhruva@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cheeku_editsssss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/  linkedin.com/in/dhruva-khare-6ba6b7391) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Dhruva khare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharedhruva@gmail.com) 
