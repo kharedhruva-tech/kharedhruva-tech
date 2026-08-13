@@ -1,7 +1,5 @@
-
 <h1 align="center">🛡️ Dhruva khare - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
 <h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
-
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
@@ -16,11 +14,9 @@
 🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
 🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
 
-
 ---
 
 ## 🏴‍☠️ Skills & Expertise  
-
 🎯 **Offensive Security (Red Team)**  
 💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
 🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
@@ -44,14 +40,13 @@
 ---
 
 ## 🔧 Tools & Technologies  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure,docker,kubernetes,git,github,gitlab" />
 </p>
 
 ---
-<!-- Snake Game Repo View -->
 
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
@@ -63,23 +58,27 @@
 </picture>
 
 ### 📊 **GitHub Stats**
-[![GitHub Streak](https://streak-stats.demolab.com?user=kharedhruva-tech&theme=prussian&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharedhruva-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kharedhruva-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kharedhruva-tech&theme=prussian&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 🌐 Connect With Me  
-
 <p align="center">
 <a href="https://www.linkedin.com/in/dhruva-khare-6ba6b7391/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:"kharedhruva@gmail.com
-><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:kharedhruva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🎯 Fun Fact  
-> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+> _"There are two types of companies: those who have been hacked and those who don't know they have been hacked yet!"_ 🚀  
 
 ---
 
 🔥 **Want to Collaborate?**  
-If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  
+If you're interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let's connect and **secure the digital world together!** 🛡️
