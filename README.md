@@ -1,66 +1,48 @@
-<h1 align="center">🛡️ Dhruva Khare</h1>
-<h3 align="center">Cybersecurity Analyst & Ethical Hacker</h3>
-<p align="center"><i>"Securing the digital world, one vulnerability at a time."</i></p>
-
+<h1 align="center">🛡️ Dhruva khare - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
+<h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruva-khare-6ba6b7391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kharedhruva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmOXZoamxnajJpMjdld25tbXJoNnBjZnIyajJ6YjZ3ZXFrYnpxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGwTq3G6a39cI/giphy.gif" width="53%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtzamprbjZzejFsdmhrOXBuY3Nydm9mMWJxMGl1b2JrOXp2MG5tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40%"/>
 </p>
-
-<br/>
-
-## 🚀 About Me
-
-- 🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**
-- 🔹 Expert in **Web Security, Network Defense & Red Teaming**
-- 🔹 Passionate about **Threat Intelligence, SIEM & Digital Forensics**
-- 🔹 Strong skills in **OSINT, Incident Response & Secure Coding**
-
-<br/>
-
-## 🏴‍☠️ Skills & Expertise
-
-**🎯 Offensive Security (Red Team)**
-| Category | Tools |
-|---|---|
-| Penetration Testing | Metasploit, Burp Suite, SQLmap |
-| Web & API Security | OWASP ZAP, Nikto, Recon-ng |
-| OSINT & Reconnaissance | Maltego, Shodan, TheHarvester |
-
-**🛡️ Defensive Security (Blue Team)**
-| Category | Tools |
-|---|---|
-| SIEM & Monitoring | Splunk, ELK Stack, Suricata |
-| Incident Response | Wireshark, Snort, Volatility |
-| Digital Forensics | Autopsy, FTK Imager, Sleuth Kit |
-
-**🛠️ Cryptography & Secure Development**
-| Category | Tools |
-|---|---|
-| Encryption & Hashing | OpenSSL, GPG, bcrypt |
-| Secure Coding | OWASP Top 10, SAST/DAST |
-| Cloud Security | AWS Security Hub, Azure Sentinel |
-
-**📀 Operating Systems & Networks**
-| Category | Tools |
-|---|---|
-| Linux | Kali, Parrot OS, Ubuntu |
-| Windows Security | PowerShell, Sysinternals |
-| Network Security | Nmap, Netcat, Aircrack-ng |
-
-<br/>
-
-## 🔧 Tools & Technologies
-
+---
+## 🚀 About Me  
+🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
+🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
+🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
+🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
+---
+## 🏴‍☠️ Skills & Expertise  
+🎯 **Offensive Security (Red Team)**  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap  
+🔍 **Web & API Security:** OWASP ZAP, Nikto, Recon-ng  
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, TheHarvester  
+🛡️ **Defensive Security (Blue Team)**  
+🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
+🚨 **Incident Response:** Wireshark, Snort, Volatility  
+🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit  
+🛠️ **Cryptography & Secure Development**  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
+🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell, Sysinternals  
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+---
+## 🔧 Tools & Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure,docker,kubernetes,git,github,gitlab" />
 </p>
-
-<br/>
+---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📊 GitHub Stats
 
