@@ -78,13 +78,24 @@
 
 <br/>
 
-## 🎯 Fun Fact
+## 🌐 Connect With Me  
 
-> *"There are two types of companies: those who have been hacked and those who don't know they've been hacked yet!"* 🚀
+<p align="center">
+<a href="https://www.linkedin.com/in/dhruva-khare-6ba6b7391/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:"kharedhruva@gmail.com
+><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<br/>
+---
 
-## 🔥 Let's Collaborate
+### 🎯 Fun Fact  
+> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+
+---
+
+🔥 **Want to Collaborate?**  
+If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  
+
 
 Interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**?
 Let's connect and secure the digital world together. 🛡️
